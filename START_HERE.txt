@@ -1,0 +1,48 @@
+CHRONICLE CLASH LINK — THE NINEFOLD VAULT
+Mobile landscape build • Godot 4.3 • September 23, 2026
+
+ON YOUR ANDROID PHONE
+1. Download this ZIP. In Samsung My Files, select it and choose Extract.
+2. Extract into a new folder in Downloads or Documents.
+3. Open Godot. Choose Import and select project.godot inside the extracted folder.
+4. Allow Godot file access if Android asks. Wait for artwork/audio imports to finish.
+5. Open the project, turn your phone sideways, and tap Run Project (the play triangle).
+6. Tap NEW ADVENTURE. Later, use CONTINUE SAVED ADVENTURE.
+
+This ZIP is editable Godot source, not an installable APK.
+Use Godot 4.3 or newer; verified here with 4.3. Compatibility renderer is configured.
+Landscape rotation is requested. The 16:9 canvas keeps its proportions on wider phones.
+
+CONTROLS
+Left circular stick: move. SWORD: attack. Hold GUARD: shield in your facing direction.
+RANG/BOW: starting items. MENU: equipment and pause. MAP: your routes.
+TALK: nearby villagers, shop refill, or a room hint.
+In MENU, tap any equipment tile, then the A or B assignment box.
+RANG means boomerang. LAMP means lantern.
+Movement and the right-hand buttons support simultaneous fingers.
+
+FIRST OBJECTIVE
+Walk east from the village, east through the meadow, east through the stone approach.
+You have reached the Ninefold Vault. Each three-room wing contains a puzzle, a key
+seal and a guardian. Light both braziers with your lantern/fire rod, or push the
+stone onto the gold plate. Treasure chests supply keys. Defeat each guardian.
+You can retreat west. Defeat the ninth guardian to complete the adventure.
+
+HELPFUL DETAILS
+Visit the village's red-roof shop and tap TALK to restore health and supplies.
+Swim fins are in Sunken Steps, south of Mosswater Shore. Follow dry land around water.
+Magic slowly regenerates, so elemental fights cannot run out of required magic.
+Prism Regent's blue ring needs ICE; its red ring needs FIRE.
+Progress saves on room changes, menu use, focus loss, and every 15 seconds of play.
+Save + Resume also saves. New Adventure starts over and replaces this build's save.
+Save files stay in Godot's user-data folder, not inside this ZIP.
+
+SCOPE
+An original 36-room action-RPG prototype: 9 exploration rooms and 27 vault rooms,
+9 guardian encounters, original music/SFX, new detailed sprite artwork, touch
+controls, inventory, route map, persistent props and saving. It is not Nintendo's
+full game, maps, story or exact mechanics. Bosses share some art; NPC animation is
+simple. Device performance and touch comfort still need testing on your phone.
+
+Official Android editor guidance:
+https://docs.godotengine.org/en/4.3/tutorials/editor/using_the_android_editor.html

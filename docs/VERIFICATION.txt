@@ -1,0 +1,58 @@
+Godot Engine v4.3.stable.official.77dcf97d8 - https://godotengine.org
+
+PASS: Village is safe
+PASS: Every world connection has a matching return exit
+PASS: All 36 adventure rooms exist
+PASS: Touch menu pauses
+PASS: Touch selects and equips boomerang
+PASS: Touch selects and equips bow
+PASS: Touch selects and equips bomb
+PASS: Touch selects and equips fire
+PASS: Touch selects and equips ice
+PASS: Touch selects and equips lantern
+PASS: Touch resume unpauses
+PASS: Two-finger movement and attack work together
+PASS: Movement finger release clears motion
+PASS: East transition loads the linked room
+PASS: South transition is reachable
+PASS: Water geometry is detected
+PASS: Torch seal starts locked
+PASS: Two lit braziers open the seal
+PASS: Block pressure puzzle opens the seal
+PASS: Key gate rejects missing key
+PASS: Key gate consumes one key
+PASS: Unlocked gate does not consume another key
+PASS: Living guardian locks east exit
+PASS: Defeated guardian opens exit
+PASS: Save and continue restore player and room
+PASS: Opened chest persists after save/load
+PASS: Every room and boss executes physics
+PASS: Wing route seal 01
+PASS: Wing route seal 02
+PASS: Wing route seal 03
+PASS: Wing route seal 04
+PASS: Wing route seal 05
+PASS: Wing route seal 06
+PASS: Wing route seal 07
+PASS: Wing route seal 08
+PASS: Wing route seal 09
+PASS: Wing route seal 10
+PASS: Wing route seal 11
+PASS: Wing route seal 12
+PASS: Wing route seal 13
+PASS: Wing route seal 14
+PASS: Wing route seal 15
+PASS: Wing route seal 16
+PASS: Wing route seal 17
+PASS: Wing route seal 18
+PASS: Wing route seal 19
+PASS: Wing route seal 20
+PASS: Wing route seal 21
+PASS: Wing route seal 22
+PASS: Wing route seal 23
+PASS: Wing route seal 24
+PASS: Wing route seal 25
+PASS: Wing route seal 26
+PASS: Wing route seal 27
+PASS: Final guardian triggers adventure victory
+RESULT: 0 failures
