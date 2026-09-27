@@ -27,6 +27,10 @@ Open `project.godot` in Godot 4.3. Main scene: `Main.tscn`. Gameplay and drawing
 
 Desktop: WASD/arrows move; J/Space sword; K guard; L/I items; E talk; P/Esc equipment. Mouse can operate the visible stick and buttons.
 
+## Save compatibility
+
+`project.godot` sets `config/use_custom_user_dir=true` and `config/custom_user_dir_name="godot/app_userdata/Chronicle Clash Link - Ninefold Mobile"`. This keeps the save folder from before the Evertrail rename, so existing saves (`user://ccl_mobile_v1.save`) still load. Don't change these settings or the save file name, or existing saves disappear. (Godot drops comments from `project.godot` when it rewrites the file, so this note lives here.)
+
 ## Verification
 
 Godot 4.3 imports and compiles the project. `tests/mobile_smoke.gd` checks reciprocal room links, touch equipment assignment, simultaneous move/attack, reachable east/south transitions, puzzle/key/boss seals, persistent opened chests, save/load, all room/boss updates, and the final victory flag. It uses its own separate test save.

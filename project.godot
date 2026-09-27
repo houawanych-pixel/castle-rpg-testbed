@@ -1,5 +1,7 @@
 [application]
-config/name="Chronicle Clash Link - Ninefold Mobile"
+config/name="Evertrail"
+config/use_custom_user_dir=true
+config/custom_user_dir_name="godot/app_userdata/Chronicle Clash Link - Ninefold Mobile"
 run/main_scene="res://Main.tscn"
 config/features=PackedStringArray("4.3")
 
