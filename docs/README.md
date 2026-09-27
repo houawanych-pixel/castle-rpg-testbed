@@ -1,4 +1,4 @@
-# Chronicle Clash Link — The Ninefold Vault
+# Evertrail — The Ninefold Vault
 
 A playable original mobile action-RPG prototype built on the user's existing Godot testbed. See `START_HERE.txt` for phone setup and controls.
 

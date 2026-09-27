@@ -1027,7 +1027,7 @@ func _draw_hud() -> void:
     _panel_button(Rect2(584,7,50,30),"MENU")
     _panel_button(Rect2(584,44,50,30),"MAP")
     _panel_button(Rect2(584,217,50,34),"TALK")
-    draw_string(ThemeDB.fallback_font,Vector2(7,22),"C C L",0,50,11,Color("d9ba74"))
+    draw_string(ThemeDB.fallback_font,Vector2(7,22),"EVERTRAIL",0,50,9,Color("d9ba74"))
     draw_string(ThemeDB.fallback_font,Vector2(9,43),"VAULT",0,50,8,Color("9db0bd"))
 
 func _draw_touch_controls() -> void:
@@ -1241,7 +1241,7 @@ func _draw_title() -> void:
         var p=Vector2(fmod(i*83.3,640),fmod(i*39.7+elapsed*5,360))
         draw_circle(p,1,Color(0.75,0.86,0.65,0.25+0.2*sin(elapsed+i)))
     draw_rect(Rect2(28,24,584,312),Color("847751"),false,1)
-    draw_string(ThemeDB.fallback_font,Vector2(80,91),"CHRONICLE CLASH",HORIZONTAL_ALIGNMENT_CENTER,480,25,Color("efdbac"))
+    draw_string(ThemeDB.fallback_font,Vector2(80,91),"EVERTRAIL",HORIZONTAL_ALIGNMENT_CENTER,480,25,Color("efdbac"))
     draw_string(ThemeDB.fallback_font,Vector2(100,128),"T H E   N I N E F O L D   V A U L T",HORIZONTAL_ALIGNMENT_CENTER,440,14,Color("85bcc9"))
     draw_string(ThemeDB.fallback_font,Vector2(90,162),"Explore the wilds. Break the seals. Defeat nine guardians.",HORIZONTAL_ALIGNMENT_CENTER,460,12,Color("bdc9c8"))
     _panel_button(Rect2(182,188,276,42),"NEW ADVENTURE")
